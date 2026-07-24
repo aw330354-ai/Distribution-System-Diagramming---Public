@@ -12,9 +12,10 @@ The distribution system uses Main, feeder reclosers and LCB for switching. Each 
 
 The Main recloser is situated just after the transformer. The feeder recloser is situated at the start of each new feeder. You can change the colour of the feeder electrical connections for ease of reference. 
 ### LAB - Knife Switches, Load Busters
+
 <img width="438" height="316" alt="image" src="https://github.com/user-attachments/assets/8a287f9b-acf1-4967-bbf7-0d39b77ced36" />
 
-Kinfe Switches - These devices cannot be opened or closed on load. They must be de-energized from an upsteam device to be operated. Load Busters- They can be opened/closed on load. 
+Knife Switches - These devices cannot be opened or closed on load. They must be de-energized from an upsteam device to be operated. Load Busters- They can be opened/closed on load. 
 ### Fuses, Tripsavers
 Protective devices that are generally connected at T-offs. Can be opened on load.
 ### Load
