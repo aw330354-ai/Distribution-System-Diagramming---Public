@@ -7,9 +7,9 @@ The tool also has a number of other actions, such as an Event Log that can be us
 ## Introduction to the Distribution system elements
 ### Main Recloser, Feeder Recloser, LCB
 The distribution system uses Main, feeder reclosers and LCB for switching. Each of these have a few main elements: The Circuit Breaker is used to interrupt current flow under load and fault condtions (fault analysis not possible with this tool). Isolators are used to physically break the circuit, ensuring that no current can flow under any conditions. A bypass is used to create a connection if the isolators and circuit breakers are open, if work needs to be done on the recloser without interrupting currnet flow. A ground trip is also present on the reclosers. If bypassed, this allows for paralleling of two feeders under load, using knife switches, without incorrect operation of the recloser, thinking that a ground fault has occured (NOTE: In this tool, Ground Trip may be toggled, but will not actually block the user from paralleling if they do not turn it off). 
-<img width="294" height="206" alt="image" src="https://github.com/user-attachments/assets/8f3fb4ac-21d2-4153-8727-98219fe9fc10" />
-<img width="207" height="170" alt="image" src="https://github.com/user-attachments/assets/48f93657-8e40-4c34-ac3e-34bd5b3ff92b" />
-<img width="212" height="147" alt="image" src="https://github.com/user-attachments/assets/65121a7c-5edc-4de5-b8a4-89203b1069f5" />
+
+<img width="742" height="224" alt="image" src="https://github.com/user-attachments/assets/ff056389-f5bb-45e6-bdb4-4ea35afc6c4d" />
+
 
 The Main recloser is situated just after the transformer. The feeder recloser is situated at the start of each new feeder. You can change the colour of the feeder electrical connections for ease of reference. 
 
