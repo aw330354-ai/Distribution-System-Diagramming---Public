@@ -25,7 +25,33 @@ Generally simply endpoints on a feeder.
 To move around the canvas, hold the right mouse button and move the diagram around the canvas. Use the scroll wheel to zoom in and out of the diagram.
 ### System elements
 <img width="1765" height="117" alt="image" src="https://github.com/user-attachments/assets/e47f5480-3f75-4fb3-8c51-928c812209ec" />
-#### Source
+### Source 
+The source is the point from which the feeder is energized, or can be used to represent where another feeder connects to a paralleling point. When an element is connected to the source, and is in the closed state, then power flows through that element. 
+### Text
+Text may be added to the drawing by clicking the text icon and placing the text box anywhere on the canvas. The user may choose Small, Medium, Large and Extra Large text options. 
+<img width="267" height="175" alt="image" src="https://github.com/user-attachments/assets/a93efd68-2a60-4962-b68c-b606472c2005" />
+### Draw line 
+The user may connect elements using the Draw Line feature. Click the icon and then the user can connect the elements using lines. Note that when an element is placed on the canvas, unless rotated (Rotate action discussed later), the lines will be drawn horizontally. If rotated, then  the lines are drawn vertically. If drawing a line and you need to break and move at 90 degrees in either direction, then click on the canvas while drawing and move in the desired direction. 
+### Select/ Move
+To select an element, click on the Select/Move icon, and then click the element. Then when a yellow circle appears around the element, then the user can move the element. If you would like to select multiple elements, then drag across all and they will be selected. 
+### Pan
+The pan option is used for tablet users to easily move across the canvas. 
+### Rotate 
+Rotate option is used to turn the element from a horizontal position to vertical position. This can be used to change the orientation of the element for drawing purposes. 
+### Toggle Open/Closed
+The toggle option is used to open or close an element to energize/de-energize the element. 
+### Delete
+Used to delete an element from the canvas
+### Clear All
+Used to clear all the drawing from the canvas. 
+### Save and Load options
+Used to save the drawing that a user makes to a folder on their device. In addition, the Save options will save any chagnes that the user makes to the drawings in the KSA drawing options. Load will retrieve the drawing that the user has saved on their device. 
+### Diagrams
+The user may choose from the list of diagrams that are presaved. 
+###
+### PNG and PDF options
+The user may export the drawings as PNG and PDF depending on the needs of the user. 
+<img width="337" height="747" alt="image" src="https://github.com/user-attachments/assets/88bbb563-71cd-487c-8414-336fdcd1a2d4" />
 
 
 
